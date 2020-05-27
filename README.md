@@ -1,6 +1,6 @@
 # micard
 
-A new Flutter application.
+A Flutter Business Card application.
 
 ## Getting Started
 
