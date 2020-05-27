@@ -2,7 +2,8 @@
 
 A Flutter Business Card application.
 
-##Snapshot
+## Screenshot
+![Screenshot](assets/images/screenshot.jpg)
 
 ## Getting Started
 
